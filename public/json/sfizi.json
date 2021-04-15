@@ -1,0 +1,52 @@
+[
+
+  {
+    "titolo": "Tagliere di salumi",
+    "ingredienti": "Gnocco fritto, Salame nostrano, Prosciutto Crudo di Parma, Pancetta, Formaggi misti",
+    "prezzo": "10,00",
+    "extra": "2 persone"
+  },
+  {
+    "titolo": "Crocché di patate",
+    "ingredienti": "Patate di Avezzano, Grana Padano D.O.P, Fior di Latte",
+    "prezzo": "1,00",
+    "extra": ""
+  },
+  {
+    "titolo": "Frittatina con crema di Broccoli ",
+    "ingredienti": "Besciamella, Crema di Broccoli, Salsiccia, Grana Padano D.O.P",
+    "prezzo": "1,50",
+    "extra": "",
+    "new": true
+  },
+  {
+    "titolo": "Frittatina di bucatini ",
+    "ingredienti": "Besciamella, Prosciutto Cotto, Piselli, Grana Padano D.O.P",
+    "prezzo": "1,50",
+    "extra": ""
+  },
+  {
+    "titolo": "Montanara classica",
+    "ingredienti": "Pomodoro 'Gustorosso', Grana Padano D.O.P a scaglie, Olio e.v.o, Basilico",
+    "prezzo": "3,00",
+    "extra": "2 Pezzi"
+  },
+  {
+    "titolo": "Patatina classica",
+    "ingredienti": "Patatine fritte",
+    "prezzo": "2,50",
+    "extra": ""
+  },
+  {
+    "titolo": "La Sfiziosa",
+    "ingredienti": "Patatine fritte, Salsiccia, Wurstel, Fior di Latte",
+    "prezzo": "3,50",
+    "extra": ""
+  },
+  {
+    "titolo": "Straccetti Primavera",
+    "ingredienti": "Straccetti di impasto pizza, Pomodorini del Vesuvio, Grana Padano D.O.P, Rucola, Olio e.v.o",
+    "prezzo": "4,00",
+    "extra": ""
+  }
+]

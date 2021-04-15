@@ -1,0 +1,426 @@
+.festivita {
+  margin: 10px auto;
+  text-align: center;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.festivita .title {
+  font-family: "Dancing Script";
+  font-size: 3.5em;
+  color: #c0c0c0;
+  text-shadow: #cecece 1px 1px 5px;
+}
+
+.festivita .frase {
+  font-family: "Poppins";
+  color: #b98c42;
+  font-style: italic;
+  margin-bottom: 10px;
+  font-size: 1em;
+}
+
+.festivita .line {
+  margin: 0 auto;
+  background-color: transparent;
+  background-image: url("/public/images/svg/newSnow.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  min-height: 50px;
+  width: 300px;
+  background-position: center;
+}
+
+.toTheTop {
+  position: fixed;
+  background-color: #d89e43;
+  background-image: url("https://raw.githubusercontent.com/sambrosio17/BStrong/8236f71b5708ff7cf62dbbf3e28832f4a58d1bc2/assets/svg/arrrow.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 50%;
+  width: 3em;
+  height: 3em;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: #0b533b;
+  background-image: url("/public/images/svg/bg.svg");
+}
+
+.header {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  position: relative;
+  width: 100%;
+}
+
+.header img {
+  display: block;
+  min-width: 150px;
+  max-width: 250px;
+  margin: 0 auto;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.header .title {
+  font-family: "Bebas Neue", cursive;
+  color: #ba9c69;
+  font-size: 32px;
+  text-align: center;
+  margin-top: -5vh;
+}
+
+.line {
+  width: 90%;
+  background-color: #c0c0c0;
+  height: 2px;
+  margin: 0 auto;
+}
+
+.container {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  width: 100%;
+  margin-top: 2vh;
+  margin: 2vh auto;
+}
+
+.container .title {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  text-shadow: black 1px 1px 5px;
+  margin: 0 auto;
+  font-size: 46px;
+  padding: 0 100px;
+  font-family: "Bebas Neue", cursive;
+  color: #c0c0c0;
+  text-align: center;
+}
+
+::-moz-selection {
+  /* Code for Firefox */
+  background: #d89e43;
+}
+
+::selection {
+  background: #d89e43;
+  color: white;
+  text-transform: uppercase;
+}
+
+body::-webkit-scrollbar {
+  width: 0.7em;
+}
+
+body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+          box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #a81817;
+  border-radius: 30px;
+}
+
+.footer__container {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+  margin-bottom: 0;
+  background-color: #c0c0c0;
+  text-align: center;
+  width: 100%;
+  color: #a81817;
+}
+
+.footer__container .upper__footer {
+  width: 100%;
+  margin-top: 2vh;
+}
+
+.footer__container .upper__footer h1 {
+  font-family: "bebas neue";
+  color: #a81817;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+.footer__container .upper__footer blockquote {
+  color: white;
+  font-family: "poppins";
+  width: 75%;
+  display: block;
+  margin: 1vh auto;
+  font-style: italic;
+}
+
+.footer__container .upper__footer h3 {
+  font-family: "Satisfy", cursive;
+  font-size: 36px;
+  color: #a81817;
+  margin: 2vh auto;
+}
+
+.footer__container .sub__footer {
+  margin-top: 2vh;
+  padding-bottom: 2vh;
+  width: 100%;
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.footer__container .sub__footer h1 {
+  font-family: "bebas neue";
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+.footer__container .footer__info {
+  width: 90%;
+  text-align: center;
+  margin: 2vh auto 0;
+  padding-bottom: 2vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer__container .footer__info span {
+  font-family: "poppins";
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.footer__container .footer__info h1 {
+  font-family: "bebas neue";
+  color: #ba9c69;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+.footer__container .footer__info .mini__cont {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.footer__container .disclaimer {
+  padding: 0.5vh;
+  width: 100%;
+  background: #8d8d8d;
+  font-size: 16px;
+  font-family: "poppins";
+}
+
+.footer__container .disclaimer a {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  font-family: "poppins";
+  color: white;
+  font-size: 35px;
+  padding: 5px;
+}
+
+a:hover {
+  color: #ba9c69;
+}
+
+.icon {
+  color: white;
+  font-size: 25px;
+  padding: 5px;
+}
+
+.portata {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 3vh auto;
+  width: 98%;
+}
+
+.portata .portata__sx {
+  width: 90%;
+}
+
+.portata .titleWrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.portata .titleWrapper .news {
+  color: red;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  font-family: "poppins";
+  font-size: 16px;
+  padding: 5px;
+  letter-spacing: 2px;
+  border-radius: 3px;
+}
+
+.portata .portataTitle {
+  color: #ba9c69;
+  font-family: "Bebas Neue", cursive;
+  font-size: 32px;
+}
+
+.portata .info {
+  color: #c0c0c0;
+  width: 90%;
+  margin-top: -10px;
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 18px;
+  text-transform: lowercase;
+}
+
+.portata .line {
+  margin: 0;
+  background-color: transparent;
+  background-image: url("/public/images/svg/newSnowLine.png");
+  background-size: contain;
+  background-repeat-y: no-repeat;
+  min-height: 50px;
+  width: 105%;
+  -webkit-mask-image: -webkit-gradient(linear, left center, right center, from(black), to(rgba(0, 0, 0, 0)));
+}
+
+.portata .prezzo {
+  font-family: Bebas Neue;
+  font-size: 26px;
+  color: #ba9c69;
+  text-align: center;
+}
+
+.portata .extra {
+  font-family: poppins;
+  font-weight: bold;
+  text-align: center;
+}
+
+.main__container {
+  width: 96%;
+  margin: 0 auto;
+}
+
+.mobile__menu {
+  width: 100%;
+  height: 3vh;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  background: blue;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/* .title {
+    font-family: 'Bebas Neue', cursive;
+    color: $primary-red;
+    font-size: 32px;
+    text-align: center;
+} */
+@media screen and (max-width: 550px) {
+  .container .title {
+    font-size: 34px;
+  }
+  .portata .portataTitle {
+    font-size: 26px;
+  }
+  .portata .info {
+    font-size: 16px;
+  }
+  .portata .prezzo {
+    font-size: 24px;
+  }
+  .portata .portata__sx {
+    width: 82%;
+  }
+  .portata .extra {
+    font-size: 12px;
+  }
+  .footer__info {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .container .title {
+    font-size: 30px;
+  }
+  .portata .portataTitle {
+    font-size: 24px;
+  }
+  .portata .info {
+    font-size: 14px;
+  }
+  .portata .prezzo {
+    font-size: 22px;
+  }
+  .portata .portata__sx {
+    width: 82%;
+  }
+  .portata .extra {
+    font-size: 10px;
+  }
+  .footer__container .upper__footer h1 {
+    font-size: 28px;
+  }
+  .footer__container .upper__footer blockquote {
+    width: 95%;
+  }
+  .footer__container .sub__footer h1 {
+    font-size: 28px;
+  }
+  .footer__container .sub__footer a {
+    font-size: 25px;
+  }
+}
+/*# sourceMappingURL=winter-style.css.map */

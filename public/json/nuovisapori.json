@@ -1,0 +1,94 @@
+[{
+    "titolo": "Menesta 'Mmaretata",
+    "ingredienti": "Minestra, Fior di Latte, Provola, Pomodoro pacchetella 'Gustorosso', Salsiccia, Grana Padano D.O.P, Olio e.v.o",
+    "prezzo": "6,00",
+    "extra": "",
+    "new": true
+  },
+  {
+    "titolo": "Passioni d'autunno",
+    "ingredienti": "Granella di noci, Crema di zucca, Funghi porcini, Salsiccia, Olio e.v.o",
+    "prezzo": "7,00",
+    "extra": "",
+    "new": true
+  },
+  {
+    "titolo": "Patanella Plus",
+    "ingredienti": "Fior di Latte, Provola, Patate a forno, Porchetta, Grana Padano D.O.P, Olio e.v.o, Basilico",
+    "prezzo": "6,50",
+    "extra": "",
+    "new": true
+  },
+  {
+    "titolo": "Margherita in due passaggi",
+    "ingredienti": "Pizza Margherita fritta e infornata",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "'Nun Sgarrà",
+    "ingredienti": "Fior di Latte, Pomodorini del Vesuvio, Bresaola, Rucola, Grana Padano D.O.P, Olio e.v.o, Basilico all'uscita",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "Segugio",
+    "ingredienti": "Fior di Latte, Provola, Funghi Porcini, Pomodorini Gialli, Grano Padano D.O.P, Olio e.v.o, Basilico",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "Cacio e Pepe",
+    "ingredienti": "Fior di Latte, Provola, Pecorino Romanao, Pepe, Olio e.v.o, Basilico",
+    "prezzo": "5,00",
+    "extra": ""
+  },
+  {
+    "titolo": "A' Ricciulella",
+    "ingredienti": "Fior di Latte, Provola, Scarola, Pancetta a fette, Olio e.v.o, Basilico",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "Patanella",
+    "ingredienti": "Fior di Latte, Provola, Patate a forno, Prosciutto Cotto, Grana Padano D.O.P, Olio e.v.o, Basilico",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "Diavola",
+    "ingredienti": "Pomodoro 'Gustorosso', Fior di Latte, Grana Padano D.O.P, Salame Napoli, Peperoncino tritato, Olio e.v.o, Basilico",
+    "prezzo": "5,00",
+    "extra": ""
+  },
+  {
+    "titolo": "La Delicata",
+    "ingredienti": "Fior di Latte, Provola, Vellutata di Patate, Speck, Valerian, Grana Padano D.O.P, Olio e.v.o, Basilico",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "Fior di Noci",
+    "ingredienti": "Fior di Latte, Provola, Noci, Speck, Grana Padano D.O.P Olio e.v.o, Basilico",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "La Veronica",
+    "ingredienti": "Fior di Latte, Mortadella, Pistacchio, Grana Padano D.O.P Olio e.v.o, Basilico",
+    "prezzo": "6,00",
+    "extra": ""
+  },
+  {
+    "titolo": "Affidati al Pizzaiolo",
+    "ingredienti": "Ingredienti a scelta del pizzaiolo",
+    "prezzo": "",
+    "extra": ""
+  },
+  {
+    "titolo": "Fattèl tu",
+    "ingredienti": "Ingredienti a scelta del cliente",
+    "prezzo": "",
+    "extra": ""
+  }
+]

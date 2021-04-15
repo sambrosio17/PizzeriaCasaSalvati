@@ -1,0 +1,79 @@
+[{
+        "titolo": "Napoletana",
+        "ingredienti": "Pomodoro 'Gustorosso', Acciughe, Aglio, Origano, Olio e.v.o, Basilico all'uscita",
+        "prezzo": "3,50",
+        "extra": ""
+    },
+    {
+        "titolo": "Marinara",
+        "ingredienti": "Pomodoro 'Gustorosso', Aglio, Origano, Olio e.v.o, Basilico all'uscita",
+        "prezzo": "3,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Margherita",
+        "ingredienti": "Pomodoro 'Gustorosso', Fior di Latte, Grana Padano D.O.P, Olio e.v.o, Basilico e Ciliegina all'uscita",
+        "prezzo": "5,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Margherita Doppia Mozzarella",
+        "ingredienti": "Pomodoro 'Gustorosso', Mozzarella, Ciliegien, Olio e.v.o, Basilico all'uscita",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Bufalina",
+        "ingredienti": "Pomodoro 'Gustorosso', Mozzarella di Bufala, Olio e.v.o, Basilico e Ciliegina all'uscita",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Capricciosa",
+        "ingredienti": "Pomodoro 'Gustorosso', Fior di Latte, Prosciutto Cotto, Salame Napoli, Funghi Misti, Carciofini, Olive nere, Grana Padano D.O.P, Olio e.v.o, Basilico",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Diavola",
+        "ingredienti": "Pomodoro 'Gustorosso', Fior di Latte, Grana Padano D.O.P, Salame Napoli, Peperoncino tritato, Olio e.v.o, Basilico",
+        "prezzo": "5,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Il Friariello",
+        "ingredienti": "Fior di Latte, Provola, Broccoli, Salsiccia, Peperoncino, Grana Padano D.O.P, Olio e.v.o, Basilico",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "La Senza Tempo",
+        "ingredienti": "Fior di Latte, Provola, Patatine Fritte, Wurstel, Olio e.v.o, Basilico",
+        "prezzo": "5,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Mimosa",
+        "ingredienti": "Fior di Latte, Prosciutto Cotto, Mais, Grana Padano D.O.P Olio e.v.o, Basilico",
+        "prezzo": "5,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Parisienne",
+        "ingredienti": "Fior di Latte, Panna, Prosciutto Cotto, Crocché, Grana Padano D.O.P, Olio e.v.o, Basilico",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Primavera",
+        "ingredienti": "Fior di Latte, Provola, Pomodorini del Vesuvio, Prosciutto Crudo di Parma, Rucola, Grana Padano D.O.P a scaglie, Olio e.v.o, Basilico",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Ortolana",
+        "ingredienti": "Fior di Latte, Provola, Melanzane, Zucchine, Grana Padano D.O.P, Olio e.v.o, Basilico",
+        "prezzo": "6,00",
+        "extra": ""
+    }
+]

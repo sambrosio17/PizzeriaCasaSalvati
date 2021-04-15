@@ -1,0 +1,37 @@
+[{
+        "titolo": "Tronchetto",
+        "ingredienti": "Ripieno di Fior di Latte, Emmenthal, All'uscita Grana Padano D.O.P a scaglie, Prosciutto Crudo di Parma, Olio e.v.o, Basilico",
+        "prezzo": "6,50",
+        "extra": ""
+    },
+    {
+        "titolo": "Tronchetto Casa Salvati",
+        "ingredienti": "Ripieno di Fior di Latte, Emmenthal, Lardo di Colonnata, Funghi Porcini, All'uscita Grana Padano D.O.P a scaglie, Prosciutto Crudo di Parma, Olio e.v.o, Basilico e Ciliegina",
+        "prezzo": "7,50",
+        "extra": ""
+    },
+    {
+        "titolo": "La Pizza Fritta Napoletana",
+        "ingredienti": "Ripieno di Fior di Latte, Ricotta, Cicoli, Pepe",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "La Pizza Fritta",
+        "ingredienti": "Ripieno di Fior di Latte, Prosciutto Cotto, Pomodoro 'Gustorosso', Grana Padano D.O.P, Pepe",
+        "prezzo": "6,00",
+        "extra": ""
+    },
+    {
+        "titolo": "Calzone al Forno",
+        "ingredienti": "Ripieno di Fior di Latte, Prosciutto Cotto, Pomodoro 'Gustorosso', Olive nere, Carciofini, Funghi misti, Pepe, Grana Padano D.O.P, Olio e.v.o",
+        "prezzo": "6,50",
+        "extra": ""
+    },
+    {
+        "titolo": "Saltimbocca",
+        "ingredienti": "Ripieno di Fior di Latte, Prosciutto Crudo di Parma",
+        "prezzo": "4,50",
+        "extra": ""
+    }
+]
