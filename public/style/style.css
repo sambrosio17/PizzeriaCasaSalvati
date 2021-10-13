@@ -387,9 +387,10 @@ a:hover {
 
 .portata__dx {
   width: 0%;
+  display: none;
 }
 
 .portata__sx {
-  width: 100%;
+  width: 100% !important;
 }
 /*# sourceMappingURL=style.css.map */
