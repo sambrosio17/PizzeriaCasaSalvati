@@ -444,4 +444,13 @@ a:hover {
   text-transform: lowercase;
   color: black;
 }
+
+.portata__dx {
+  width: 0%;
+  display: none;
+}
+
+.portata__sx {
+  width: 100% !important;
+}
 /*# sourceMappingURL=winter-style.css.map */
