@@ -357,7 +357,14 @@ a:hover {
   display: -ms-flexbox;
   display: flex;
 }
+.portata__dx {
+  width: 0%;
+  display: none;
+}
 
+.portata__sx {
+  width: 98% !important;
+}
 /* .title {
     font-family: 'Bebas Neue', cursive;
     color: $primary-red;
@@ -445,12 +452,5 @@ a:hover {
   color: black;
 }
 
-.portata__dx {
-  width: 0%;
-  display: none;
-}
 
-.portata__sx {
-  width: 100% !important;
-}
 /*# sourceMappingURL=winter-style.css.map */
