@@ -423,4 +423,25 @@ a:hover {
     font-size: 25px;
   }
 }
+
+.info__container {
+  font-family: 'Bebas Neue';
+  color: #742d2d;
+  font-size: 42px;
+  text-align: center;
+  margin: 30px auto;
+  padding: 30px;
+  border: 3px dotted red;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.info__container .info {
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 20px;
+  text-transform: lowercase;
+  color: black;
+}
 /*# sourceMappingURL=winter-style.css.map */
