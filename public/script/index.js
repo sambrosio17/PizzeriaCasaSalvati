@@ -196,7 +196,7 @@ function showFeste()
   let title= document.createElement("h1");
   title.classList.add("title");
   let data=new Date();
-  let textTitle="Buone Feste"+data.getFullYear()+"!";
+  let textTitle="Buone Feste "+data.getFullYear()+"!";
   let textFrase="Pizzeria Casa Salvati augura a tutta la numerosa clientela buone feste.</br> Grazie per essere sempre con noi.";
   if(data.getDate()==24){
     textTitle="Buona Vigilia di Natale!"
